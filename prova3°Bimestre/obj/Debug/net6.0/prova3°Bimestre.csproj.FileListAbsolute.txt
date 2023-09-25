@@ -1,0 +1,5 @@
+C:\Users\2022102020071\source\repos\prova3°Bimestre\prova3°Bimestre\obj\Debug\net6.0\prova3°Bimestre.csproj.AssemblyReference.cache
+C:\Users\2022102020071\source\repos\prova3°Bimestre\prova3°Bimestre\obj\Debug\net6.0\prova3°Bimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020071\source\repos\prova3°Bimestre\prova3°Bimestre\obj\Debug\net6.0\prova3°Bimestre.AssemblyInfoInputs.cache
+C:\Users\2022102020071\source\repos\prova3°Bimestre\prova3°Bimestre\obj\Debug\net6.0\prova3°Bimestre.AssemblyInfo.cs
+C:\Users\2022102020071\source\repos\prova3°Bimestre\prova3°Bimestre\obj\Debug\net6.0\prova3°Bimestre.csproj.CoreCompileInputs.cache
